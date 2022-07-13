@@ -1,2 +1,3 @@
-# Loongson
-for Loongson Contest
+# 说明文档
+这里是2022年嵌入式大赛0520 温暖助读队的项目开源代码
+`dataset_self`目录下是数据集
